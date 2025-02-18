@@ -1,0 +1,12 @@
+name: sales_data
+title: Sales_Data
+username: pand-dashboard
+account: pand-dashboard
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13678301
+bundleId: 9634811
+url: https://pand-dashboard.shinyapps.io/sales_data/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
