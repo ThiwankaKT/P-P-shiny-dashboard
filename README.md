@@ -2,7 +2,7 @@
 This is a Shiny web application designed to analyze and visualize sales, billing, and footfall data across multiple locations. The app provides interactive dashboards using plotly and ggplot2 to explore daily sales trends, market shares, footfall patterns, and more.
 
 **Live Demo:** https://pand-dashboard.shinyapps.io/sales_data/   
-**GitHub Repository:** 
+**GitHub Repository:** https://github.com/ThiwankaKT/P-P-shiny-dashboard
 
 ## Features:
 **Daily Sales by Location:** Track daily sales with custom date ranges.  
